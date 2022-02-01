@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![Badge](https://www.codewars.com/users/K0Hb/badges/large)](https://www.codewars.com/users/K0Hb/badges/large)
 <!--
 **K0Hb/K0Hb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
