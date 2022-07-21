@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: telegram [@K00Hb](https://t.me/K00Hb)
-- - 👯 I’m looking to collaborate on [resume](https://k0hb.github.io/my_profile/)
+- 👯 I’m looking to collaborate on [resume](https://k0hb.github.io/my_profile/)
 
 [![Badge](https://www.codewars.com/users/K0Hb/badges/large)](https://www.codewars.com/users/K0Hb/badges/large)
 <!--
